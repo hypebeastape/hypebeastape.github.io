@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xD49879aD55Bd52619Cd0ca9105b791cf8B7c5567",
+  "SCAN_LINK": "https://polygonscan.com/token/0xD49879aD55Bd52619Cd0ca9105b791cf8B7c5567",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "HYPEBEAST APE WRAPPED POLYGON",
+  "SYMBOL": "HAPE",
+  "MAX_SUPPLY": 8000,
+  "WEI_COST": 50000000000000000,
+  "DISPLAY_COST": 0.05,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/hypebeast-ape-wrapped-polygon",
+  "SHOW_BACKGROUND": true
+}
